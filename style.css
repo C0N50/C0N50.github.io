@@ -16,6 +16,7 @@ body {
   padding-right:20px;
   border-right: 1px solid #dddddd;
   border-left: 1px solid #dddddd;
+  
 }
 
 
@@ -40,3 +41,7 @@ body {
 ul {
   font-size: 15px
 }
+
+.div-1 {
+      text-align: center;
+    }
